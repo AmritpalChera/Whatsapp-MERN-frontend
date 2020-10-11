@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [https://whatsapp-eb3d0.web.app/]
 
+The Mongo Express NodeJS backend is hosted on Heroku!
+
 
 ## Available Scripts
 
